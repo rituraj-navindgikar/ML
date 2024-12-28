@@ -2,6 +2,14 @@
 - We find correlations in data using seaborn's heatmap, these are the features with very high correlations and teach the model same thing again and again
 - therefore we combine those into a new feature and delete the old features
 
+## The General Step is to
+- Impute missing data
+- Handling outliers
+- Understanding correlations
+- feature engineering
+- encoding
+- algorithm experimentation
+  
 ## This Python Notebook uses the following Supervised learning Approaches to train and test on [housing.csv](https://github.com/rituraj-navindgikar/ML/blob/main/housing.csv)
 - LINEAR REGRESSION 
 - RANDOM FOREST REGRESSOR
