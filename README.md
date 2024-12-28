@@ -3,5 +3,6 @@
 - therefore we combine those into a new feature and delete the old features
 
 # This Python Notebook uses 2 Supervised learning Approaches to train and test [housing.csv]() file 
-- 1. LINEAR REGRESSION 
-- 2. RANDOM FOREST REGRESSOR
+- LINEAR REGRESSION 
+- RANDOM FOREST REGRESSOR
+- XGBoost
